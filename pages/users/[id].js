@@ -3,7 +3,7 @@ import { useRouter } from "next/router";
 import { Box, Typography, Button, Paper, CircularProgress } from "@mui/material";
 import Link from "next/link";
 import { useUsersStore } from "../../stores/useUsersStore";
-import PrivateRoute from "../../components/PrivateRoutes";
+import PrivateRoute from "../../components/PrivateRoute";
 
 export default function UserDetail() {
   const router = useRouter();
