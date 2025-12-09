@@ -76,8 +76,14 @@ All backend data is fetched from:
 - Full product detail page with images slider, description, specs
 
 ---
-Installation & Setup
+### **Installation & Setup**
 git clone <your-repo-url>
 cd HELP-STUDY-PORTFOLIO
 npm install
 npm run dev
+### **✔ GitHub Repo Link**
+
+https://github.com/<username>/HELP-STUDY-PORTFOLIO
+
+### **✔ Live Deployment Link**
+https://vercel.com/moinuddin-chhipas-projects/help_study_portfolio
